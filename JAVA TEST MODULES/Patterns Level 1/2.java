@@ -1,4 +1,4 @@
-'''2.
+/*2.
 Print the pattern with Alternate rows of 1's and 0's
 EXAMPLE:
 6
@@ -7,7 +7,7 @@ EXAMPLE:
 111111
 000000
 111111
-000000'''
+000000*/
 
 
 import java.util.Scanner;
