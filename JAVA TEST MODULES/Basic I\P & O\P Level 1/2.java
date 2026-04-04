@@ -1,7 +1,7 @@
-'''2.
+/*2.
 Take three floating-point numbers: a, b, and c, and evaluate the expression:
 (a * b) / (b + c) + (a % c)
-Print the result rounded to 2 decimal places.'''
+Print the result rounded to 2 decimal places.*/
   
 
 import java.util.Scanner;
