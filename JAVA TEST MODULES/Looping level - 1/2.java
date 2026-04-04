@@ -1,4 +1,4 @@
-'''2.Given an integer num, repeatedly add all its digits until the result has only one digit.'''
+/*2.Given an integer num, repeatedly add all its digits until the result has only one digit.*/
 
 
 class AddDigitsSolution {
