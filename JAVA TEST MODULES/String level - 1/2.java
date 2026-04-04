@@ -1,4 +1,4 @@
-'''2.Given a string of digits, return its "count and say" pattern, where each group of consecutive digits is described by the count followed by the digit.'''
+/*2.Given a string of digits, return its "count and say" pattern, where each group of consecutive digits is described by the count followed by the digit.*/
 
 
 import java.util.Scanner;
