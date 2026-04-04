@@ -1,4 +1,4 @@
-'''1.
+/*1.
 Print the following pattern
 Example:
 5
@@ -6,7 +6,7 @@ Example:
 01010
 10101
 01010
-10101'''
+10101*/
 
 
 import java.util.Scanner;
