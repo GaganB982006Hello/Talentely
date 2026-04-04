@@ -1,11 +1,11 @@
-'''1.
+/*1.
 You are given an n x n 2D matrix representing an image.
 
 Rotate the image by 90 degrees (clockwise).
 
 
 
-You have to rotate the matrix in-place (i.e., you have to modify the input matrix directly).'''
+You have to rotate the matrix in-place (i.e., you have to modify the input matrix directly).*/
 
 
 import java.util.*;
