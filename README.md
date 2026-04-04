@@ -1,23 +1,35 @@
-# Talentely LMS - Placement & Technical Training 🚀
+# Talentely Training Archive - VSB Coimbatore
+  
+This repository contains my personal solutions, code snippets, and assessment records from the [Talentely LMS](https://lms.talentely.com) platform. It is primarily focused on Java development and placement preparation for the **Batch of 2028**.
 
-This repository serves as a personal archive for code, solutions, and notes developed while using the **Talentely LMS** platform (lms.talentely.com). 
+---
 
-## 📝 About Talentely
-Talentely is an AI-driven Digital Learning platform used for career development and placement preparation. This repo tracks my journey through its three core components:
-* **LMS (Learning Management System):** Video lectures and conceptual notes.
-* **Virtual Coding Labs:** Hands-on programming practice and problem-solving.
-* **Assessments:** Technical and aptitude mock tests.
+## 📂 Repository Content
 
-## 📁 Repository Structure
-* `/Coding-Labs`: Solutions to problems solved in the Talentely virtual compiler.
-* `/Placement-Prep`: Scripts and logic for technical assessment modules.
-* `/Notes`: Markdown summaries of video lectures and technical concepts.
+### 1. JAVA Practice Module
+Comprehensive exercises covering core Java concepts, including:
+* Object-Oriented Programming (OOP)
+* Data Structures and Algorithms (DSA)
+* Exception Handling and Collections
 
-## 💻 Languages & Tools
-* **Primary Languages:** Python 🐍, Java ☕, C
-* **Key Topics:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), and Automation.
+### 2. JAVA Test Modules
+A collection of mock technical assessments and coding challenges designed to improve speed and logic building.
 
-## 🚀 How to Run
-Most scripts are standalone. To run the Python solutions:
-```bash
-python folder_name/filename.py
+### 3. VSB Coimbatore (Custom Track)
+Specialized training folder for **Batch 2028**, featuring:
+* **Daily Tests:** Organized by date (e.g., `Test-1_01-04-2026`).
+* **Placement Prep:** Targeted coding problems and aptitude logic.
+
+---
+
+## 🛠️ Tech Stack
+* **Language:** Java (OpenJDK 17+)
+* **Environment:** VS Code / IntelliJ IDEA
+* **Platform:** [Talentely LMS](https://lms.talentely.com)
+
+---
+
+## 🚀 How to Use
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/GaganB982006Hello/Talentely.git](https://github.com/GaganB982006Hello/Talentely.git)
