@@ -1,3 +1,6 @@
+'''1.Given two strings s1 and s2, write a program to check if s2 is a rotation of s1. A string is considered a rotation if it can be obtained by moving some characters from the beginning of the string to the end without changing the order of characters.'''
+
+    
 import java.util.Scanner;
 
 public class Main {
