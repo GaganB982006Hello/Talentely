@@ -1,6 +1,6 @@
-'''1.
+/*1.
 Write a program that reads two integers from the user and calculates the result of the expression:
-(a + b) * (a - b)'''
+(a + b) * (a - b)*/
 
 
   import java.util.Scanner;
