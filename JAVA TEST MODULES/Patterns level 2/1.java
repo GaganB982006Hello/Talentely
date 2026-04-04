@@ -1,11 +1,11 @@
-'''1.
+/*1.
 Print the following number pattern (print with 2 width space)
 EXAMPLE:
 4
 1 2 3 4
 2 3 4 5
 3 4 5 6
-4 5 6 7'''
+4 5 6 7*/
 
 
 import java.util.Scanner;
