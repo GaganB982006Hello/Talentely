@@ -1,4 +1,4 @@
-'''2.Given an m x n matrix, return all the elements of the matrix in spiral order.Given an m x n matrix, return all the elements of the matrix in spiral order.'''
+/*2.Given an m x n matrix, return all the elements of the matrix in spiral order.Given an m x n matrix, return all the elements of the matrix in spiral order.*/
 
 import java.util.*;
 
