@@ -1,4 +1,4 @@
-'''1.Given an m x n integer matrix, if an element is 0, set its entire row and column to 0.'''
+/*1.Given an m x n integer matrix, if an element is 0, set its entire row and column to 0.*/
 
  import java.util.*;
 
